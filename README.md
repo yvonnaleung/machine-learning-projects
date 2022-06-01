@@ -13,7 +13,7 @@ This repository contains various machine learning projects. Here are the list of
 - Grid Search
 - ROC Plot
 
-3. Predicting Reddit Subreddits
+2. Predicting Reddit Subreddits
 
 - SKLearn
 - Natural Language Toolkit
@@ -23,7 +23,7 @@ This repository contains various machine learning projects. Here are the list of
 - KMeans Clustering
 - PCA Plot
 
-5. Predicting Categories of Food
+3. Predicting Categories of Food
 
 - Keras, Tensorflow
 - CNN
